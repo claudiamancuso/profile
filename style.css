@@ -38,6 +38,7 @@ a {
 
 a:hover {
   text-decoration: none;
+  color: #6A7780;
 }
 
 .container {
@@ -72,6 +73,10 @@ a:hover {
 .list-inline li {
   display: inline-block;   /*allows to put next to eachother*/
   padding: 15px;
+}
+
+.card-td{
+  padding-left: 10px;
 }
 
 
